@@ -11,16 +11,8 @@ export default defineConfig({
 
         sidebar: [
             {
-                text: "设置",
-                items: [
-                    { text: "进入", link: "/设置/进入" },
-                ]
-            },
-            {
                 text: "游玩须知",
-                items: [
-                    { text: "开始", link: "/游玩须知/开始" },
-                ]
+                link: "/游玩须知",
             }
         ],
 
