@@ -14,6 +14,7 @@
 
 ## 在整合包中使用 TouchController
 
+- 您可以尝试移除 TouchController。如果移除后仍出现异常，那么可能不是 TouchController 导致的 bug。
 - 在整合包中使用 TouchController 极易导致 bug。
 - 如果整合包中 mod 较少，您可以依照上面一条的步骤测试 mod 冲突。
 - 如果 mod 过多无法测试，您可以依照上面一条的步骤直接反馈 bug。
