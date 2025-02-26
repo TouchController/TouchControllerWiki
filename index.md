@@ -1,6 +1,6 @@
 # TouchControllerWiki
 
-这里是 TouchController 的官方维基百科，我们欢迎任何形式的贡献！
+这里是 TouchController 的官方维基，我们欢迎任何形式的贡献！
 
 The official wiki for TouchController, welcomes contributions in any form.
 
