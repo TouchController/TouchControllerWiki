@@ -45,7 +45,7 @@ export default defineConfig({
                             { text: "界面框架", link: "/GUI/设置界面/界面框架" },
                             {
                                 text: "标签页",
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     { text: "关于", link: "/GUI/设置界面/标签页/关于" },
                                     {
@@ -71,7 +71,7 @@ export default defineConfig({
                             },
                             {
                                 text: "子页面",
-                                collapsed: false,
+                                collapsed: true,
                                 items: [
                                     {
                                         text: "布局",
