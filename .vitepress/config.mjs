@@ -4,10 +4,13 @@ export default defineConfig({
     lang: "zh-Hans",
     title: "TouchControllerWiki",
     description: "TouchController 的官方 Wiki",
+    lastUpdated: true,
     themeConfig: {
         nav: [
             { text: "首页", link: "/" },
         ],
+
+        logo: "/icon.png",
 
         sidebar: [
             {
@@ -120,5 +123,12 @@ export default defineConfig({
         lightModeSwitchTitle: "切换到浅色模式",
         darkModeSwitchTitle: "切换到深色模式",
         skipToContentLabel: "跳转到内容",
+        lastUpdated: {
+            text: "最后更新于",
+        },
+        editLink: {
+            pattern: "https://github.com/TouchController/TouchControllerWiki/edit/main/:path",
+            text: "在 GitHub 上编辑此页面"
+        }
     }
 });
