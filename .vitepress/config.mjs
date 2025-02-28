@@ -10,7 +10,7 @@ export default defineConfig({
             { text: "首页", link: "/" },
         ],
 
-        logo: '/icon.png',
+        logo: "/icon.png",
 
         sidebar: [
             {
@@ -124,11 +124,11 @@ export default defineConfig({
         darkModeSwitchTitle: "切换到深色模式",
         skipToContentLabel: "跳转到内容",
         lastUpdated: {
-            text: '最后更新于',
+            text: "最后更新于",
         },
         editLink: {
-            pattern: 'https://github.com/TouchController/TouchControllerWiki/edit/main/:path',
-            text: '在 GitHub 上编辑此页面'
+            pattern: "https://github.com/TouchController/TouchControllerWiki/edit/main/:path",
+            text: "在 GitHub 上编辑此页面"
         }
     }
 });
