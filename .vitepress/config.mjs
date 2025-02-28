@@ -10,6 +10,8 @@ export default defineConfig({
             { text: "首页", link: "/" },
         ],
 
+        logo: '/icon.png',
+
         sidebar: [
             {
                 text: "玩家手册",
