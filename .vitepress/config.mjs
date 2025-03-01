@@ -3,9 +3,14 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     lang: "zh-Hans",
     title: "TouchControllerWiki",
+    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     description: "TouchController 的官方 Wiki",
     lastUpdated: true,
     themeConfig: {
+        search: {
+            provider: "local"
+        },
+
         nav: [
             { text: "首页", link: "/" },
         ],
@@ -130,5 +135,5 @@ export default defineConfig({
             pattern: "https://github.com/TouchController/TouchControllerWiki/edit/main/:path",
             text: "在 GitHub 上编辑此页面"
         }
-    }
+    },
 });
