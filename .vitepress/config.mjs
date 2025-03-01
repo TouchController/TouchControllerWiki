@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
     lang: "zh-Hans",
     title: "TouchControllerWiki",
-    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+    head: [["link", { rel: "icon", href: "/icon.png" }]],
     description: "TouchController 的官方 Wiki",
     lastUpdated: true,
     themeConfig: {
