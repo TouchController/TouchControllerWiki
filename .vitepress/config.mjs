@@ -32,6 +32,7 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                     { text: "锚点机制", link: "/机制/锚点机制" },
+                    { text: "静默转头", link: "/机制/静默转头" },
                 ]
             },
             {
