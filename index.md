@@ -6,7 +6,7 @@ The official wiki for TouchController, welcomes contributions in any form.
 
 ## TouchController 简介
 
-TouchController 是一个 Minecraft 模组，能够为 Java 版（Minecraft: Java Edition）带来和基岩版（Minecraft: Bedrock Edition）一样的触控，并且拥有最大限度的布局自定义和配置自定义，还有一些基岩版所没有的原创控件，为您带来更好的触控体验。
+TouchController 是一个 Minecraft 模组，能够为 Java 版（Minecraft: Java Edition）带来像基岩版（Minecraft: Bedrock Edition）那样的触控，并且拥有高度自定义的控件布局和其他配置，还有一些基岩版所没有的原创控件，来带给您更好的触控体验。
 
 ## 官方地址
 
