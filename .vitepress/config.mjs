@@ -119,7 +119,7 @@ export default defineConfig({
         ],
 
         socialLinks: [
-            { icon: "github", link: "https://github.com/TouchController/TouchControllerWiki" }
+            { icon: "github", link: "https://github.com/TouchController" }
         ],
 
         docFooter: {
