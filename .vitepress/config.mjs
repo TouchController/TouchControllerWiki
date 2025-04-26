@@ -39,6 +39,7 @@ export default defineConfig({
                         items: [
                             { text: "预设系统", link: "/机制/自定义布局/预设系统" },
                             { text: "图层系统", link: "/机制/自定义布局/图层系统" },
+                            { text: "切换模式", link: "/机制/自定义布局/切换模式" },
                         ]
                     },
                 ]
