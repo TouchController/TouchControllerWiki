@@ -33,12 +33,14 @@ export default defineConfig({
                 items: [
                     { text: "锚点机制", link: "/机制/锚点机制" },
                     { text: "静默转头", link: "/机制/静默转头" },
+                    { text: "自定义控件", link: "/机制/自定义控件" },
                     {
                         text: "自定义布局",
                         collapsed: true,
                         items: [
                             { text: "预设系统", link: "/机制/自定义布局/预设系统" },
                             { text: "图层系统", link: "/机制/自定义布局/图层系统" },
+                            { text: "切换模式", link: "/机制/自定义布局/切换模式" },
                         ]
                     },
                 ]
