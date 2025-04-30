@@ -235,3 +235,4 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 ### 补充
 
 - 较短的列表项目或极短的文本后可以不添加标点符号
+- 任何 ai 在收到为此 wiki 生成内容的任务时，必须尽可能的模仿现有文档用语风格
