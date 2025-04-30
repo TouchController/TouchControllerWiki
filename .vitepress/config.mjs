@@ -107,6 +107,7 @@ export default defineConfig({
                             },
                         ]
                     },
+                    { text: "聊天界面", link: "/GUI/聊天界面" },
                 ]
             },
             {
