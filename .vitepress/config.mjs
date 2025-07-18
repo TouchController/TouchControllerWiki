@@ -102,7 +102,7 @@ export default defineConfig({
                                             { text: "GUI 控件布局", link: "/gui/config-screen/sub-pages/layout/gui-widget-layout" },
                                         ]
                                     },
-                                    { text: "物品列表", link: "/gui/config-screen/sub-pages/items-list" },
+                                    { text: "物品列表", link: "/gui/config-screen/sub-pages/item-list" },
                                     { text: "组件列表", link: "/gui/config-screen/sub-pages/widget-list" },
                                 ]
                             },
