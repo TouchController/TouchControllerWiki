@@ -22,25 +22,26 @@ export default defineConfig({
                 text: "玩家手册",
                 collapsed: false,
                 items: [
-                    { text: "游玩须知", link: "/玩家手册/游玩须知" },
-                    { text: "常见问题", link: "/玩家手册/常见问题" },
-                    { text: "报告 bug", link: "/玩家手册/报告BUG" },
+                    { text: "游玩须知", link: "/manual/readme" },
+                    { text: "常见问题", link: "/manual/faq" },
+                    { text: "报告 bug", link: "/manual/reporting-bugs" },
                 ]
             },
             {
                 text: "机制",
                 collapsed: false,
                 items: [
-                    { text: "锚点机制", link: "/机制/锚点机制" },
-                    { text: "静默转头", link: "/机制/静默转头" },
-                    { text: "自定义控件", link: "/机制/自定义控件" },
+                    { text: "锚点机制", link: "/mechanism/anchor-mechanism" },
+                    { text: "静默转头", link: "/mechanism/slient-turning-head" },
+                    { text: "输入适配", link: "/mechanism/input-support" },
+                    { text: "自定义控件", link: "/mechanism/custom-widget" },
                     {
                         text: "自定义布局",
                         collapsed: true,
                         items: [
-                            { text: "预设系统", link: "/机制/自定义布局/预设系统" },
-                            { text: "图层系统", link: "/机制/自定义布局/图层系统" },
-                            { text: "切换模式", link: "/机制/自定义布局/切换模式" },
+                            { text: "预设系统", link: "/mechanism/custom-layout/preset-system" },
+                            { text: "图层系统", link: "/mechanism/custom-layout/layer-system" },
+                            { text: "切换模式", link: "/mechanism/custom-layout/mode-switch" },
                         ]
                     },
                 ]
@@ -49,8 +50,8 @@ export default defineConfig({
                 text: "特性",
                 collapsed: false,
                 items: [
-                    { text: "触控圈", link: "/特性/触控圈" },
-                    { text: "自定义布局", link: "/特性/自定义布局" },
+                    { text: "触控圈", link: "/feature/touch-ring" },
+                    { text: "自定义布局", link: "/feature/custom-layout" },
                 ]
             },
             {
@@ -61,29 +62,29 @@ export default defineConfig({
                         text: "设置界面",
                         collapsed: true,
                         items: [
-                            { text: "界面框架", link: "/GUI/设置界面/界面框架" },
+                            { text: "界面框架", link: "/gui/config-screen/interface-frame" },
                             {
                                 text: "标签页",
                                 collapsed: true,
                                 items: [
-                                    { text: "关于", link: "/GUI/设置界面/标签页/关于" },
+                                    { text: "关于", link: "/gui/config-screen/tab/about" },
                                     {
                                         text: "通用",
                                         collapsed: true,
                                         items: [
-                                            { text: "常规", link: "/GUI/设置界面/标签页/通用/常规" },
-                                            { text: "控制", link: "/GUI/设置界面/标签页/通用/控制" },
-                                            { text: "触控圈", link: "/GUI/设置界面/标签页/通用/触控圈" },
-                                            { text: "调试", link: "/GUI/设置界面/标签页/通用/调试" },
+                                            { text: "常规", link: "/gui/config-screen/tab/general/general" },
+                                            { text: "控制", link: "/gui/config-screen/tab/general/control" },
+                                            { text: "触控圈", link: "/gui/config-screen/tab/general/touch-ring" },
+                                            { text: "调试", link: "/gui/config-screen/tab/general/debug" },
                                         ]
                                     },
                                     {
                                         text: "物品",
                                         collapsed: true,
                                         items: [
-                                            { text: "可长按使用的物品", link: "/GUI/设置界面/标签页/物品/可长按使用的物品" },
-                                            { text: "手持时显示准星的物品", link: "/GUI/设置界面/标签页/物品/手持时显示准星的物品" },
-                                            { text: "需要修正使用方向的物品", link: "/GUI/设置界面/标签页/物品/需要修正使用方向的物品" },
+                                            { text: "可长按使用的物品", link: "/gui/config-screen/tab/item/items-usable-by-long-press" },
+                                            { text: "手持时显示准星的物品", link: "/gui/config-screen/tab/item/items-show-crosshair-when-holding" },
+                                            { text: "需要修正使用方向的物品", link: "/gui/config-screen/tab/item/items-need-to-fix-use-direction" },
                                         ]
                                     },
                                 ]
@@ -96,27 +97,27 @@ export default defineConfig({
                                         text: "布局",
                                         collapsed: true,
                                         items: [
-                                            { text: "管理控件预设", link: "/GUI/设置界面/子页面/布局/管理控件预设" },
-                                            { text: "自定义控件布局", link: "/GUI/设置界面/子页面/布局/自定义控件布局" },
-                                            { text: "GUI 控件布局", link: "/GUI/设置界面/子页面/布局/GUI控件布局" },
+                                            { text: "管理控件预设", link: "/gui/config-screen/sub-pages/layout/manage-widget-preset" },
+                                            { text: "自定义控件布局", link: "/gui/config-screen/sub-pages/layout/custom-widget-layout" },
+                                            { text: "GUI 控件布局", link: "/gui/config-screen/sub-pages/layout/gui-widget-layout" },
                                         ]
                                     },
-                                    { text: "物品列表", link: "/GUI/设置界面/子页面/物品列表" },
-                                    { text: "组件列表", link: "/GUI/设置界面/子页面/组件列表" },
+                                    { text: "物品列表", link: "/gui/config-screen/sub-pages/items-list" },
+                                    { text: "组件列表", link: "/gui/config-screen/sub-pages/widget-list" },
                                 ]
                             },
                         ]
                     },
-                    { text: "聊天界面", link: "/GUI/聊天界面" },
+                    { text: "聊天界面", link: "/gui/chat-screen" },
                 ]
             },
             {
                 text: "控件",
                 collapsed: false,
                 items: [
-                    { text: "控件样式", link: "/控件/控件样式" },
-                    { text: "游戏内控件", link: "/控件/游戏内控件" },
-                    { text: "GUI 控件", link: "/控件/GUI控件" },
+                    { text: "控件样式", link: "/widget/widget-style" },
+                    { text: "游戏内控件", link: "/widget/in-game-widget" },
+                    { text: "GUI 控件", link: "/widget/gui-widget" },
                 ]
             },
         ],
