@@ -19,7 +19,7 @@ export default defineConfig({
 
         sidebar: [
             {
-                text: "玩家手册",
+                text: "开始",
                 collapsed: false,
                 items: [
                     { text: "游玩须知", link: "/manual/readme" },
