@@ -2,12 +2,12 @@
 
 ## 相关页面
 
-- 您可以在[自定义布局](../gui/config-screen/sub-pages/layout/custom-widget-layout)中查看如何管理控件。
-- 您可以在[控件样式](./widget-style)中查看控件使用什么贴图。
+- 您可以在[自定义布局](../gui/config-screen/sub-pages/layout/custom-widget-layout.md)中查看如何管理控件。
+- 您可以在[控件样式](./widget-style.md)中查看控件使用什么贴图。
 
 ## 内置控件
 
-TouchController 的内置控件主要是基于[自定义控件](../mechanism/custom-widget)实现的，但也有一些控件无法通过标准自定义控件实现，它们有一些不同于自定义控件的设置。通过自定义控件实现的内置控件在此不再赘述（您可以直接查看其属性以了解其特性），我们主要介绍无法通过标准自定义控件实现的内置控件：
+TouchController 的内置控件主要是基于[自定义控件](../mechanism/custom-widget.md)实现的，但也有一些控件无法通过标准自定义控件实现，它们有一些不同于自定义控件的设置。通过自定义控件实现的内置控件在此不再赘述（您可以直接查看其属性以了解其特性），我们主要介绍无法通过标准自定义控件实现的内置控件：
 
 ### 方向键
 

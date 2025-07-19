@@ -17,7 +17,7 @@
   - 旧版图标和新版控件背景
   - 基岩版新版贴图
   - 新版图标和旧版控件背景
-- 参见[控件样式](../../../../widget/widget-style)
+- 参见[控件样式](../../../../widget/widget-style.md)
 
 #### 不透明度
 
@@ -83,4 +83,4 @@
 
 - 类型：选项
 - 默认值：禁用
-- 控制聊天按钮是否打开 TouchController 的[聊天界面](../../../../gui/chat-screen)
+- 控制聊天按钮是否打开 TouchController 的[聊天界面](../../../../gui/chat-screen.md)

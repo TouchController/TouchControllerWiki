@@ -2,7 +2,7 @@
 
 ## 说明
 
-- 相关页面：[图层系统](../../../../mechanism/custom-layout/layer-system)、[预设系统](../../../../mechanism/custom-layout/preset-system)
+- 相关页面：[图层系统](../../../../mechanism/custom-layout/layer-system.md)、[预设系统](../../../../mechanism/custom-layout/preset-system.md)
 - 这个页面可以自定义控件的布局
 
 ## 框架
@@ -48,12 +48,12 @@
 
 - 名称：一个文本框，可以进行重命名。
 - 移动锁定：可以锁定当前控件。
-- 锚点：参见[锚点机制](../../../../mechanism/anchor-mechanism)
+- 锚点：参见[锚点机制](../../../../mechanism/anchor-mechanism.md)
 - 不透明度：一个滑杆
 - 滑动触发：按下一个启用了滑动触发的控件，手指滑动到另一个启用了滑动触发控件即可触发此控件。
 - 捕获触发：按下后，手指移开仍继续触发。
 
-这些选项的下方为[自定义控件](../../../../mechanism/custom-widget)的相关设置。
+这些选项的下方为[自定义控件](../../../../mechanism/custom-widget.md)的相关设置。
 
 此标签页的底部有两个按钮，分别为复制控件和剪切控件。
 
@@ -80,7 +80,7 @@
 
 此标签页的主体为从上至下排列的一系列图层，下方有上移和下移按钮，用于排序图层。
 
-关于图层的详细机制，请查看[图层系统](../../../../mechanism/custom-layout/layer-system)。
+关于图层的详细机制，请查看[图层系统](../../../../mechanism/custom-layout/layer-system.md)。
 
 #### 预设
 
@@ -93,4 +93,4 @@
 
 此标签页的主体为从上至下排列的预设列表，下方有上移和下移按钮，用于排序预设。
 
-关于预设的详细机制，请查看[预设系统](../../../../mechanism/custom-layout/preset-system)。
+关于预设的详细机制，请查看[预设系统](../../../../mechanism/custom-layout/preset-system.md)。
