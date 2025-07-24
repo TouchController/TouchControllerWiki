@@ -38,4 +38,4 @@ TouchController Wiki 是一个全面的知识库，旨在帮助玩家了解和�
 
 ## 游玩须知
 
-请参阅[游玩须知](https://wiki.touchcontroller.fifthlight.top/%E7%8E%A9%E5%AE%B6%E6%89%8B%E5%86%8C/%E6%B8%B8%E7%8E%A9%E9%A1%BB%E7%9F%A5.html)了解如何开始使用TouchController。
+请参阅[游玩须知](https://wiki.touchcontroller.fifthlight.top/manual/readme.html)了解如何开始使用TouchController。
