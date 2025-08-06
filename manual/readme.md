@@ -15,6 +15,8 @@
 - 1.21.4 (Forge, NeoForge, Fabric)
 - 1.21.5 (Forge, NeoForge, Fabric)
 - 1.21.6 (Forge, NeoForge, Fabric)
+- 1.21.7 (Forge, NeoForge, Fabric)
+- 1.21.8 (Forge, NeoForge, Fabric)
 
 ## 支持平台
 
@@ -22,7 +24,9 @@
 - Linux（目前只支持 Wayland 显示协议，不支持 X11（包括 XWayland）；只支持 glibc，暂时不支持 musl；只支持 x86_64、x86、armv7、armv8 架构）
 - [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)
 - [Zalith Launcher](https://github.com/ZalithLauncher/ZalithLauncher)
-- [Pojav Glow·Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm)【**停止维护**】
+- [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2)
+- [Angel Aura Amethyst](https://github.com/AngelAuraMC/Amethyst-Android)
+- [Pojav Glow·Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm)
 - [修改版 PojavLauncher](https://github.com/TouchController/PojavLauncher)【**停止维护**】
 
 ## 下载
