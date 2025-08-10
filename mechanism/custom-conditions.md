@@ -6,5 +6,5 @@
 
 ## 机制
 
-可以在[图层编辑页面](../gui/config-screen/sub-pages/layout/custom-widget-layout#图层)编辑自定义图层条件，如添加、重命名和删除。添加的自定义图层条件将显示在同预设所有图层的[条件列表](./custom-layout/layer-system#预置条件)中。
+可以在[图层编辑页面](./custom-layout/layer-system#图层编辑)编辑自定义图层条件，如添加、重命名和删除。添加的自定义图层条件将显示在同预设所有图层的自定义条件页面中。
 

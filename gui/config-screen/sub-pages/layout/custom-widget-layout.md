@@ -4,6 +4,7 @@
 
 - 相关页面：[图层系统](../../../../mechanism/custom-layout/layer-system.md)、[预设系统](../../../../mechanism/custom-layout/preset-system.md)
 - 这个页面可以自定义控件的布局
+- 参见：[自定义布局的特性](../../../../feature/custom-layout)
 
 ## 框架
 
@@ -74,11 +75,11 @@
 
 此标签页的工具栏按钮为：
 
-- 添加图层：点击后弹出窗口，可以设置名称、条件并添加一个空图层
+- 添加图层：点击后跳转到[图层编辑](../../../../mechanism/custom-layout/layer-system#图层编辑)页面，可以编辑图层条件、名称并添加一个空图层。
 
 此标签页的主体为从上至下排列的一系列图层，下方有上移和下移按钮，用于排序图层。
 
-点击图层右边的三个点，可以删除、复制、编辑图层，可以在此编辑自定义图层条件。
+点击图层右边的三个点，可以删除、复制、编辑图层，点击编辑按钮后会跳转到[图层编辑](../../../../mechanism/custom-layout/layer-system#图层编辑)页面。
 
 关于图层的详细机制，请查看[图层系统](../../../../mechanism/custom-layout/layer-system.md)。
 
