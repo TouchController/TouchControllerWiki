@@ -35,6 +35,7 @@ export default defineConfig({
                     { text: "静默转头", link: "/mechanism/slient-turning-head" },
                     { text: "输入适配", link: "/mechanism/input-support" },
                     { text: "自定义控件", link: "/mechanism/custom-widget" },
+                    { text: "自定义图层条件", link: "/mechanism/custom-conditions" },
                     {
                         text: "自定义布局",
                         collapsed: true,
@@ -52,6 +53,7 @@ export default defineConfig({
                 items: [
                     { text: "触控圈", link: "/feature/touch-ring" },
                     { text: "自定义布局", link: "/feature/custom-layout" },
+                    { text: "管理预设", link: "/feature/manage-widget-preset" },
                 ]
             },
             {

@@ -11,3 +11,4 @@
 
 - 触控圈现版本只能同时存在一个（除非实现 [#77](https://github.com/TouchController/TouchController/issues/77)），这代表了 TouchController 当前所识别的手指。
 - 打开分离控制后将不会再显示触控圈。
+- 触控圈激活后能代替原有的十字准心瞄准方块或实体。
