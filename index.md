@@ -1,5 +1,8 @@
 # TouchControllerWiki
 
+> [!WARNING]
+> 此地址已停止维护，请访问<https://tcwiki.fifthlight.top/>
+
 这里是 TouchController 的官方维基，我们欢迎任何形式的贡献！
 
 The official wiki for TouchController, welcomes contributions in any form.
